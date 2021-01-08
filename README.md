@@ -1,4 +1,4 @@
-# flutter_rc_toast
+# RCFlutterToast
 
 A new Flutter application.
 
